@@ -1,0 +1,16 @@
+PODS:
+  - KPValidator (1.0.0)
+
+DEPENDENCIES:
+  - KPValidator (from `../KPValidator`)
+
+EXTERNAL SOURCES:
+  KPValidator:
+    :path: "../KPValidator"
+
+SPEC CHECKSUMS:
+  KPValidator: 21f8f070ee4a50d09fa1fc6d57a14e69ddff44bf
+
+PODFILE CHECKSUM: c1a98816271306bbef9c0d6cb116302b2f6973c1
+
+COCOAPODS: 1.11.2

@@ -1,0 +1,6 @@
+framework module KPValidator {
+  umbrella header "KPValidator-umbrella.h"
+
+  export *
+  module * { export * }
+}
